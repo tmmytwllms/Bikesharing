@@ -11,6 +11,11 @@
 The purpose of this analysis was to create several visualizations to determine the statistics for Citi bike trip rides for the month of August 2019. Jupyter Notebook was used to edit the original CSV to convert some of the data types, and Tableau was used to visualize the data. The statitics for August 2019 were broken down by several parameters, in order to determine total number of rides, peak operating hours, rides by gender, and several others. Once the data was used to create visualizations with Tableau, interactive filters were also applied for additional functionality. 
 
 <br/>
+
+The Tableau dashboard can be viewed using the link below:
+[link to dashboard](https://public.tableau.com/app/profile/tommy.williams/viz/CitiBikes_16270988764020/Story1?publish=yes)
+
+<br/>
 <br/>
 
 ## Results
